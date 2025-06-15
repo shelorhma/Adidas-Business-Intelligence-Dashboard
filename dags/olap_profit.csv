@@ -1,0 +1,7 @@
+product_id,product,category,sales_amount,operating_profit,cost_price,margin
+1,Men's Street Footwear,accessories,27680769.0,82802260.62,51.99,989.2282273585819
+2,Men's Athletic Footwear,apparel,20577180.0,51846888.190000005,33.67,956.4311298739871
+3,Women's Street Footwear,shoes,17201563.0,45095826.81,56.37,497.51052712753426
+4,Women's Athletic Footwear,shoes,14315521.0,38975784.940000005,51.84,468.1492548679335
+5,Men's Apparel,shoes,16520632.0,44763030.33,33.25,838.2668438843061
+6,Women's Apparel,shoes,23870985.0,68650970.56,49.6,860.7538236238164

@@ -1,0 +1,55 @@
+region,state,city,sales_amount,units_sold,operating_profit
+Midwest,Illinois,Chicago,1204063.0,25407,3920368.61
+Midwest,Indiana,Indianapolis,1084723.0,26332,3379256.0
+Midwest,Iowa,Des Moines,909811.0,23446,2655217.37
+Midwest,Kansas,Wichita,1225314.0,29463,3510147.29
+Midwest,Michigan,Detroit,2287283.0,50095,8135894.0200000005
+Midwest,Minnesota,Minneapolis,903918.0,20838,2670229.7600000002
+Midwest,Missouri,St. Louis,1189515.0,36404,3907209.36
+Midwest,Montana,Billings,1930761.0,42713,6232037.55
+Midwest,Nebraska,Omaha,728838.0,19154,2439478.41
+Midwest,North Dakota,Fargo,950930.0,22781,2688519.72
+Midwest,Ohio,Columbus,2269283.0,47781,7528840.090000001
+Midwest,South Dakota,Sioux Falls,1041101.0,22973,2943318.21
+Midwest,Wisconsin,Milwaukee,948894.0,23950,2800830.09
+Northeast,Connecticut,Hartford,1646448.0,34696,4152320.79
+Northeast,Delaware,Wilmington,1508537.0,30275,4524350.06
+Northeast,Maine,Portland,1129728.0,22410,3187654.3699999996
+Northeast,Maryland,Baltimore,951134.0,20818,2757642.12
+Northeast,Massachusetts,Boston,1578435.0,32895,3353875.87
+Northeast,New Hampshire,Manchester,2339267.0,40812,5786206.430000001
+Northeast,New Jersey,Newark,1220446.0,26540,3657237.2199999997
+Northeast,New York,Albany,2994304.0,57186,9429850.91
+Northeast,New York,New York,5676160.0,111954,13899973.16
+Northeast,Pennsylvania,Philadelphia,1478794.0,27662,4156739.25
+Northeast,Rhode Island,Providence,1202256.0,27473,3045817.26
+Northeast,Vermont,Burlington,2041598.0,38685,5785966.49
+Northeast,West Virginia,Charleston,1311160.0,29873,4282953.720000001
+South,Alabama,Birmingham,2513424.0,63327,9147581.39
+South,Arkansas,Little Rock,1802672.0,48468,4915697.91
+South,Louisiana,New Orleans,3377031.0,57615,9417233.49
+South,Mississippi,Jackson,2218609.0,56814,6369094.73
+South,Oklahoma,Oklahoma City,1512059.0,40459,4106532.14
+South,Tennessee,Knoxville,2567190.0,66077,8493660.06
+South,Texas,Dallas,2982739.0,69178,8843063.290000001
+South,Texas,Houston,3629632.0,90322,9845141.06
+Southeast,Florida,Miami,3874113.0000000005,73135,12168619.110000001
+Southeast,Florida,Orlando,3946476.0,60295,8757587.81
+Southeast,Georgia,Atlanta,2708591.0,56391,6893289.61
+Southeast,Kentucky,Louisville,1241148.0,28664,3935830.23
+Southeast,North Carolina,Charlotte,2936581.0,62936,9756422.870000001
+Southeast,South Carolina,Charleston,3593112.0,72610,11324236.39
+Southeast,Virginia,Richmond,3074415.0,52969,7719430.680000001
+West,Alaska,Anchorage,1810428.0,30815,4498345.86
+West,Arizona,Phoenix,2254096.0,46919,5344664.58
+West,California,Los Angeles,3651288.0,76384,9044920.84
+West,California,San Francisco,4929220.0,86900,10256249.56
+West,Colorado,Denver,2569036.0,41378,7713555.830000001
+West,Hawaii,Honolulu,2734457.0,40375,5849794.07
+West,Idaho,Boise,2742753.0,63827,8121115.1
+West,Nevada,Las Vegas,2981134.0,51831,7060651.920000001
+West,New Mexico,Albuquerque,2824641.0000000005,52633,6738060.41
+West,Oregon,Portland,3047049.0,50536,7573145.0
+West,Utah,Salt Lake City,1387620.0,48548,3873429.1
+West,Washington,Seattle,3222093.0,46611,6991403.130000001
+West,Wyoming,Cheyenne,2282342.0,50228,6544071.15
